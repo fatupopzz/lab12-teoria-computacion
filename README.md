@@ -5,7 +5,7 @@ Fatima Navarro, 24044
 
 ## Video de ejecución
 
-[![Video del laboratorio](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/oWsAwggXW14)
+[![Video del laboratorio](https://img.youtube.com/vi/oWsAwggXW14/0.jpg)](https://youtu.be/oWsAwggXW14)
 
 > Reemplazar `VIDEO_ID` por el id del video no listado de YouTube.
 
